@@ -12,3 +12,4 @@ Check out the [demo video](https://youtu.be/zxnkn_8WB0U).
 ### About
 
 - The app was created during the beginning of 2023.
+- The security level is poor.
