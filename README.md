@@ -1,6 +1,6 @@
 # Mixed_Alphabet_Cipher_Nodejs
 
-<img src="https://images.squarespace-cdn.com/content/v1/587b630aebbd1ab22efeeb6b/85e170e9-1eb9-463b-abb0-1261ce99e22b/Mixed+Cipher.png"/>
+<img src="PromoPic.png"/>
 
 Check out the [demo video](https://youtu.be/zxnkn_8WB0U).
 
