@@ -2,8 +2,6 @@
 
 <img src="PromoPic.png"/>
 
-Check out the [demo video](https://youtu.be/zxnkn_8WB0U).
-
 ### Launch the App
 
 1) Download Node.js and JavaScript.
